@@ -1,0 +1,49 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+    font: 14px arial; 
+}
+
+#goto{
+    display: none;
+}
+
+#panel {
+    height: auto;
+    width: 100%;
+}
+
+#tabs{
+    height: 30px;
+    background-color: ghostwhite;
+    text-align: center;
+}
+
+.icon {
+    display: inline;
+    height: 20px;
+    width: 20px;
+}
+
+#urlbardiv{
+    display: inline-block;
+    width: 100%;
+}
+
+#urlbar{
+        border: 1px solid #000000;
+        border-radius: 3px;
+        -webkit-border-radius: 3px;
+        -moz-border-radius: 3px; 
+        -khtml-border-radius: 3px; 
+        background: #ffffff !important;
+        outline: none; 
+        height: 24px;
+        width: 100%;
+        color: #cccccc; 
+        font-size: 11px;
+        font-family: Tahoma;
+        width: 100%;
+     
+}
